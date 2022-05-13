@@ -1,0 +1,34 @@
+{
+    "quiz1": {
+      "question":
+        "In order for a protestor to receive an automatic stop-work order, the timeline for vendor to submit a post-award protest to GAO is:-",
+      "options": [
+        "1961. 7 calendar days after Contract Award.",
+        "4985. 10 calendar after Contract Award.",
+        "1294. 5 calendar days after receipt of a debriefing.",
+        "8768. 10 calendar days after contract award or within 5 days after a debriefing date, whichever is later."
+      ],
+      "correctCode": "1294"
+    },
+    "quiz2": {
+      "question":
+        "Disappointed vendors have 10 days after receipt of a Debriefing to submit a protest to the US Court of Federal Claims (COFC).",
+      "correctAnswer": false,
+      "correctExplaination":
+        "False. There is no time limit for filing a protest at COFC."
+    },
+    "quiz3": {
+      "question":
+        "Vendors receive an automatic stop-work order if they file a protest at GAO within 10 days after receipt of a debriefing.",
+      "correctAnswer": false,
+      "correctExplaination":
+        "False. In order to gain the automatic stop-work order, the protest has to be filed within 5 days after receipt of the debriefing."
+    },
+    "quiz4": {
+      "question":
+        "question:After the Contracting Officer provided a debriefing to the disappointed vendor and process is completed. 5 days later, the vendor has submitted additional questions.  Should you provide responses?",
+      "followupQuestion":
+        "If the Contracting officer does submit responses to the newly submitted questions,  this triggers a new __ day clock to submit a protest.",
+      "correctAnswer": "10"
+    }
+}
